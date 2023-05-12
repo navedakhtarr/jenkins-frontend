@@ -1,0 +1,12 @@
+com\controller\DeleteController.class
+com\config\MyMvcConfig.class
+com\entity\Author.class
+com\controller\EditController.class
+com\controller\LoginController.class
+com\controller\Logout.class
+com\entity\Book.class
+com\controller\AddController.class
+com\service\LoginService.class
+com\config\MyFrontController.class
+com\service\AuthorService.class
+com\service\BookService.class
